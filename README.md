@@ -7,6 +7,8 @@ PROFESSOR: FELIPE AGUIAR
 
 ESCOLA: DIGITAL INNOVATION ONE
 
+# Este projeto fo escrito em HTML5, CSS3 e JavaScript (plugin Jquery).
+
 Aqui está a parte superior da página. Aproveitei imagem do meu curso de alemão, feito pela Deutsche Welle e o texto também está em alemão:
 
 ![orangeflix](https://github.com/geosidnei/orangeflix/blob/main/orangeflixTop.png)
